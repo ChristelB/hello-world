@@ -3,3 +3,5 @@
 Hello world,
 
 I am Christel and this is to experiment on Github!
+* 1
+* 2
